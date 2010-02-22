@@ -1,9 +1,9 @@
 
-h2. jQuery Scope
+h1. jQuery Scope
 
 Allows a bunch of jquery calls to be default scoped to something other than document.
 
-h3. Examples
+h2. Examples
 
 <pre><code>
 $.with_scope('#post_15', function($) {
