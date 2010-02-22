@@ -1,5 +1,5 @@
 /*
- * jquery_scope.js
+ * http://github.com/amiel/jquery_scope
  * Amiel Martin
  * 2010-02-22
  * 
